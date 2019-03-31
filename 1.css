@@ -19,12 +19,10 @@ img{
     padding:20px;
     cursor: pointer;
     transition: 1s;
-    transform: translateX(400px) translateY(150px);
 }
 
 
 .circle:hover{
     background: yellow;
     transform: rotate(360deg);
-    transform: translateX(400px) translateY(150px);
 }
